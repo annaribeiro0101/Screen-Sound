@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "cu+PRJN9lWt15BA5twWk0NI7UE/eyw9wA9ixzfu/e7ehw6kJVNjRyhR9J2AZwts+5DI5PYIcqrZlCteCv6Uxvg==",
+  "dgSpecHash": "FnJlsds1uL3txlSIESz7V7Rw2Ri2wZzqBNvpaLA8OGRiPqmqe7Xz0T7Emmbd182ZHtV3b+As7ku1iDh4QyZiMQ==",
   "success": true,
-  "projectFilePath": "D:\\Estudos\\ScreenSound03\\ScreenSound\\ScreenSound.csproj",
+  "projectFilePath": "C:\\Users\\anna.ribeiro\\Documents\\GitHub\\Screen-Sound\\ScreenSound\\ScreenSound.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\anna.ribeiro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\anna.ribeiro\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\anna.ribeiro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\anna.ribeiro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+    "C:\\Users\\anna.ribeiro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\anna.ribeiro\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\anna.ribeiro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\anna.ribeiro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
   ],
   "logs": []
 }

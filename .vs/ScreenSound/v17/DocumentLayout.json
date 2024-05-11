@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anna.ribeiro\\Documents\\GitHub\\Screen-Sound\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\anna.ribeiro\\documents\\github\\screen-sound\\screensound\\menus\\menuexibirdetalhes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menuexibirdetalhes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\anna.ribeiro\\documents\\github\\screen-sound\\screensound\\modelos\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\modelos\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\anna.ribeiro\\documents\\github\\screen-sound\\screensound\\modelos\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\modelos\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\anna.ribeiro\\documents\\github\\screen-sound\\screensound\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\anna.ribeiro\\documents\\github\\screen-sound\\screensound\\menus\\menuregistrarmusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menuregistrarmusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\anna.ribeiro\\documents\\github\\screen-sound\\screensound\\menus\\menuavaliarbanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menuavaliarbanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\anna.ribeiro\\documents\\github\\screen-sound\\screensound\\menus\\menuavaliarmusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menuavaliarmusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\anna.ribeiro\\documents\\github\\screen-sound\\screensound\\menus\\menuregistraralbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menuregistraralbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\anna.ribeiro\\documents\\github\\screen-sound\\screensound\\menus\\menuregistrarbanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menuregistrarbanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\anna.ribeiro\\documents\\github\\screen-sound\\screensound\\menus\\menuavaliaralbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menuavaliaralbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuAvaliarMusica.cs",
+              "DocumentMoniker": "C:\\Users\\anna.ribeiro\\Documents\\GitHub\\Screen-Sound\\ScreenSound\\Menus\\MenuAvaliarMusica.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuAvaliarMusica.cs",
+              "ToolTip": "C:\\Users\\anna.ribeiro\\Documents\\GitHub\\Screen-Sound\\ScreenSound\\Menus\\MenuAvaliarMusica.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\MenuAvaliarMusica.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAkwCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:55:49.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuAvaliarBanda.cs",
+              "DocumentMoniker": "C:\\Users\\anna.ribeiro\\Documents\\GitHub\\Screen-Sound\\ScreenSound\\Menus\\MenuAvaliarBanda.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuAvaliarBanda.cs",
+              "ToolTip": "C:\\Users\\anna.ribeiro\\Documents\\GitHub\\Screen-Sound\\ScreenSound\\Menus\\MenuAvaliarBanda.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\MenuAvaliarBanda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:18:04.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuExibirDetalhes.cs",
+              "DocumentMoniker": "C:\\Users\\anna.ribeiro\\Documents\\GitHub\\Screen-Sound\\ScreenSound\\Menus\\MenuExibirDetalhes.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuExibirDetalhes.cs",
+              "ToolTip": "C:\\Users\\anna.ribeiro\\Documents\\GitHub\\Screen-Sound\\ScreenSound\\Menus\\MenuExibirDetalhes.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\MenuExibirDetalhes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:55:12.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\anna.ribeiro\\Documents\\GitHub\\Screen-Sound\\ScreenSound\\Modelos\\Musica.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Modelos\\Musica.cs",
+              "ToolTip": "C:\\Users\\anna.ribeiro\\Documents\\GitHub\\Screen-Sound\\ScreenSound\\Modelos\\Musica.cs",
+              "RelativeToolTip": "ScreenSound\\Modelos\\Musica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T10:05:51.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\anna.ribeiro\\Documents\\GitHub\\Screen-Sound\\ScreenSound\\Modelos\\Album.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Modelos\\Album.cs",
+              "ToolTip": "C:\\Users\\anna.ribeiro\\Documents\\GitHub\\Screen-Sound\\ScreenSound\\Modelos\\Album.cs",
+              "RelativeToolTip": "ScreenSound\\Modelos\\Album.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIA8wBYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:36:12.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuRegistrarAlbum.cs",
+              "DocumentMoniker": "C:\\Users\\anna.ribeiro\\Documents\\GitHub\\Screen-Sound\\ScreenSound\\Menus\\MenuRegistrarAlbum.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuRegistrarAlbum.cs",
+              "ToolTip": "C:\\Users\\anna.ribeiro\\Documents\\GitHub\\Screen-Sound\\ScreenSound\\Menus\\MenuRegistrarAlbum.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\MenuRegistrarAlbum.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:39:47.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Banda.cs",
+              "DocumentMoniker": "C:\\Users\\anna.ribeiro\\Documents\\GitHub\\Screen-Sound\\ScreenSound\\Modelos\\Banda.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Modelos\\Banda.cs",
+              "ToolTip": "C:\\Users\\anna.ribeiro\\Documents\\GitHub\\Screen-Sound\\ScreenSound\\Modelos\\Banda.cs",
+              "RelativeToolTip": "ScreenSound\\Modelos\\Banda.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T10:02:27.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuAvaliarAlbum.cs",
+              "DocumentMoniker": "C:\\Users\\anna.ribeiro\\Documents\\GitHub\\Screen-Sound\\ScreenSound\\Menus\\MenuAvaliarAlbum.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuAvaliarAlbum.cs",
+              "ToolTip": "C:\\Users\\anna.ribeiro\\Documents\\GitHub\\Screen-Sound\\ScreenSound\\Menus\\MenuAvaliarAlbum.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\MenuAvaliarAlbum.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:43:00.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuRegistrarMusica.cs",
+              "DocumentMoniker": "C:\\Users\\anna.ribeiro\\Documents\\GitHub\\Screen-Sound\\ScreenSound\\Menus\\MenuRegistrarMusica.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuRegistrarMusica.cs",
+              "ToolTip": "C:\\Users\\anna.ribeiro\\Documents\\GitHub\\Screen-Sound\\ScreenSound\\Menus\\MenuRegistrarMusica.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\MenuRegistrarMusica.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwCIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:23:13.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuRegistrarBanda.cs",
+              "DocumentMoniker": "C:\\Users\\anna.ribeiro\\Documents\\GitHub\\Screen-Sound\\ScreenSound\\Menus\\MenuRegistrarBanda.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuRegistrarBanda.cs",
+              "ToolTip": "C:\\Users\\anna.ribeiro\\Documents\\GitHub\\Screen-Sound\\ScreenSound\\Menus\\MenuRegistrarBanda.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\MenuRegistrarBanda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:46:11.267Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

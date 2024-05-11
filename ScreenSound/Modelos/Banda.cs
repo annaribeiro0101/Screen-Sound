@@ -6,7 +6,7 @@ internal class Banda : IAvaliavel
     private List<Album> albuns = new List<Album>();
     private List<Avaliacao> notas = new List<Avaliacao>();
     
-    public IEnumerable<Album> Albuns => albuns;
+    //public IEnumerable<Album> Albuns => albuns;
 
     public Banda(string nome)
     {

@@ -22,33 +22,32 @@ namespace ScreenSound.Menus
                 Banda banda = bandasRegistradas[nomeDaBanda];                
                 Console.Write($"Digite o álbum que a música pertence: ");
                 string tituloAlbum = Console.ReadLine()!;
+
+
                 if (banda.Albuns.Any(a => a.Nome.Equals(tituloAlbum)))
                     {
                     Album album = banda.Albuns.First(a => a.Nome.Equals(tituloAlbum));
                     Console.WriteLine($"Digite a música : ");
                     string nomeDaMusica = Console.ReadLine()!;
-                    if (album.Musicas.Any(a => a.Nome.Equals(nomeDaMusica)))
-                     {
-                        Musica musica = album.Musicas.First(a => a.Nome.Equals(nomeDaMusica));
-                        Console.WriteLine($"Qual a nota que o música{nomeDaMusica} merece: ");
-                        Avaliacao nota = Avaliacao.Parse(Console.ReadLine()!);
-                        musica.AdicionarNota(nota);
-                        Console.WriteLine($"\na nota {nota.Nota} foi registrada com sucesso para a música{nomeDaMusica}");
-                        Thread.Sleep(2000);
+                    
+
+                }else
+                    {
+                        Console.WriteLine($"\nO album{tituloAlbum} não foi encontrada!");
+                        Console.WriteLine("Digite uma tecla para voltar ao menu principal");
+                        Console.ReadKey();
                         Console.Clear();
+
                     }
 
+            }else
+                {
+                    Console.WriteLine($"\nA banda {nomeDaBanda} não foi encontrada!");
+                    Console.WriteLine("Digite uma tecla para voltar ao menu principal");
+                    Console.ReadKey();
+                    Console.Clear();
+
                 }
-
-            }
-            else
-            {
-                Console.WriteLine($"\nA banda {nomeDaBanda} não foi encontrada!");
-                Console.WriteLine("Digite uma tecla para voltar ao menu principal");
-                Console.ReadKey();
-                Console.Clear();
-
-            }
         }
 
     }

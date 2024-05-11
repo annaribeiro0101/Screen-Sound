@@ -20,7 +20,13 @@ namespace ScreenSound.Menus
                     Console.WriteLine("\nDiscografia: ");
                     foreach (Album album in banda.Albuns)
                     {
-                        Console.WriteLine($"{album.Nome} -> {album.Media}");
+                        Console.WriteLine($"O álbum da banda {banda.Nome} é {album.Nome} -> {album.Media}");
+                        //Console.WriteLine($"{album.Musicas} -> {album.Musicas}");
+
+                        foreach (Musica musicas in album.Musicas)
+                        {
+                            Console.WriteLine($"A música do álbum {album.Nome} é  {musicas.Nome}");
+                        }
                     }
 
                     Console.WriteLine("\nDigite uma tecla para voltar ao menu principal");

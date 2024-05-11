@@ -1,4 +1,5 @@
 ﻿using ScreenSound.Modelos;
+using System.Linq;
 
 namespace ScreenSound.Menus;
 
@@ -12,14 +13,32 @@ internal class MenuRegistrarMusica : Menu
         string nomeDaBanda = Console.ReadLine()!;
         if (bandasRegistradas.ContainsKey(nomeDaBanda))
         {
-            Album album = new;
-            Console.Write("Agora digite o título do álbum que a música pertence ");
+            Banda banda = bandasRegistradas[nomeDaBanda];
+            Console.Write("Agora digite a música da banda: ");
+            string nomeMusica = Console.ReadLine()!;
+            Musica musica = new Musica(banda);
+            musica.Nome = nomeMusica;
+            Console.Write("Agora digite o álbum que a música pertence: ");
             string tituloAlbum = Console.ReadLine()!;
-            if () ;       
-            banda.AdicionarAlbum(new Album(tituloAlbum));
-            Console.WriteLine($"O álbum {tituloAlbum} de {nomeDaBanda} foi registrado com sucesso!");
-            Thread.Sleep(4000);
-            Console.Clear();
+
+            if (banda.Albuns.Any(a => a.Nome.Equals(tituloAlbum)))
+            {
+                Album album = banda.Albuns.First(a => a.Nome.Equals(tituloAlbum));                
+               
+                //Album album = new Album(tituloAlbum);
+                album.AdicionarMusica(musica);
+                Console.WriteLine($"A música {musica.Nome} do álbum {tituloAlbum} foi registrada com sucesso!");
+                Thread.Sleep(4000);
+                Console.Clear();
+            }
+            else 
+            {
+                Console.WriteLine($"\nO álbum {tituloAlbum} não foi encontrado!");
+                Console.WriteLine("Digite uma tecla para voltar ao menu principal");
+                Console.ReadKey();
+                Console.Clear();
+            }
+
 
         }
         else
